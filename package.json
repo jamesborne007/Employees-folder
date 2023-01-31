@@ -1,0 +1,21 @@
+{
+  "name": "express2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "Start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "iodash": "^0.0.1-security",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  }
+}
